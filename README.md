@@ -1,4 +1,4 @@
-# covid-19_analysis
+# COVID-19 - Analysis, Visualization & Comparisons
 
 ## Install Libraries
 ### get latest version of pip
